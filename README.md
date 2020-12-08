@@ -7,12 +7,12 @@ Some other changes I made was switched the parent div to an aside elemnent becau
 Semantic HTML Element and Tag References:
 Article: intended to be independently distributable or resuable
 Section: thematic groupign of content 
-<header>: top of document 
-<hgroup>: main heading plus one or more sub headngs 
-<aside>: intended for content that is not part of the flow 
-<nav>: common to use i <header> and local <nav> in sidebar
-<footer>: bottom of the document that contains general information 
-<small>: used for copyright or legal disclaimers>
+header: top of document 
+hgroup: main heading plus one or more sub headngs 
+aside: intended for content that is not part of the flow 
+nav: common to use i header and local nav in sidebar
+footer: bottom of the document that contains general information 
+small: used for copyright or legal disclaimers
 
   
 During this homework assignment, I learned that detail is an important part of coding. It is vital to make every change in a document easy to trace for others who may view or edit your file. Being as thorough as possible is the key to saving time and allowing others to build off of your code right where you left off. 
